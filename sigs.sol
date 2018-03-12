@@ -168,6 +168,11 @@ contract Arbitration is Decode {
             // TODO call cross-chain sc.
         }
     }
+    
+    // TODO
+    function timeoutAndChangeV() {
+        
+    }
 
 // default call
     function (){
